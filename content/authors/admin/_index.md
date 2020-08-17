@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - admin
-title: Nelson Bighetti
+title: Carlos Mendez
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
