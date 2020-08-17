@@ -2,7 +2,7 @@
 organizations:
   - name: Stanford University
     url: ""
-superuser: false
+superuser: true
 authors:
   - admin
 title: Carlos Mendez
